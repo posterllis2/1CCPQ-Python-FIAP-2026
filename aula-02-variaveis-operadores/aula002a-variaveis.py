@@ -1,4 +1,3 @@
-'''
 print('Olá, Mundo')
 
 print(7 + 4)
@@ -9,11 +8,11 @@ print('7'+'4')
 
 # Isso é o comentário de uma linha
 
-
+"""
     Comentários de
     múltiplas
     linhas
-'''
+"""
 
 # Variáveis
 
