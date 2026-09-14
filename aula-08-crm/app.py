@@ -34,6 +34,3 @@ def main():
             break
         else:
             print("Opção Invalida!")
-
-if __name__ == "__main__":
-    main()
